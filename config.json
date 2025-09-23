@@ -1,0 +1,5 @@
+{
+    "token": "YOUR_DISCORD_ACCOUNT_TOKEN",
+    "webhook": "YOUR_WEEBHOOK_URL",
+    "list_file": "list.txt"
+}
